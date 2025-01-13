@@ -29,3 +29,9 @@ I'm an Informatics student interested in creating a simple operating system.
     | Theme | Rosé Pine Moon |
     | Icons | Rosé Pine Moon |
     | Cursor | Rosé Pine Moon |
+
+4. Applications
+
+    | Key | Value |
+    | --- | --- |
+    | Editor | Neovim |
