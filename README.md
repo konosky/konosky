@@ -20,7 +20,6 @@ I'm an Informatics student interested in creating a simple operating system.
     | Kernel | XanMod |
     | Shell | Bash |
     | WM | Hyprland |
-    | Terminal | Ghostty |
 
 3. Appearance
 
@@ -34,5 +33,6 @@ I'm an Informatics student interested in creating a simple operating system.
 
     | Key | Value |
     | --- | --- |
+    | Terminal | Ghostty |
     | Editor | Neovim |
     | Browser | Zen |
