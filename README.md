@@ -12,7 +12,7 @@ I'm an Informatics student interested in creating a simple operating system.
     | Keyboard | Keychron Q4 |
     | Mouse | Logicool MX Master 3S |
 
-2. Software
+2. OS components
 
     | Key | Value |
     | --- | --- |
