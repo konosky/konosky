@@ -35,3 +35,4 @@ I'm an Informatics student interested in creating a simple operating system.
     | Key | Value |
     | --- | --- |
     | Editor | Neovim |
+    | Browser | Zen |
