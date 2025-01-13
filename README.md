@@ -26,6 +26,6 @@ I'm an Informatics student interested in creating a simple operating system.
 
     | Key | Value |
     | --- | --- |
-    | Theme | Rosé Pine |
-    | Icons | Rosé Pine |
-    | Cursor | Rosé Pine |
+    | Theme | Rosé Pine Moon |
+    | Icons | Rosé Pine Moon |
+    | Cursor | Rosé Pine Moon |
